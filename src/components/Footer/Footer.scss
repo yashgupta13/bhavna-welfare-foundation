@@ -1,0 +1,64 @@
+.footer-container {
+	background: var(--secondary-bg);
+	padding: var(--spacing-6) var(--spacing-1);
+	width: 100%;
+	
+	.col {
+		border-bottom: 1px solid var(--bg-2);
+	}
+
+	.brand-container {
+		display: flex;
+		align-items: center;
+		justify-content: space-evenly;
+		.brand-logo {
+			width: 300px;
+			text-align: left;
+		}
+	}
+	.brand-name {
+		font-size: 1.5rem;
+		font-weight: 500;
+	}
+	@media screen and (max-width: 760px) {
+		.brand-name{
+			text-align: center;
+		}
+	}
+	.contact-row {
+		margin-top: var(--spacing-4);
+		text-align: left;
+
+		.contact {
+			display: flex;
+			justify-items: center;
+			margin-bottom: 15px;
+			align-items: center;
+		}
+
+		.contact-heading {
+			font-size: 1.4rem;
+			font-size: bold;
+		}
+		p {
+			margin-top: var(--spacing-2);
+		}
+		.icon {
+			font-size: var(--fs-l);
+			color: var(--neutral);
+			padding: var(--spacing-1) var(--spacing-2);
+			background: var(--bg-2);
+			border-radius: 8px;
+			height: max-content;
+		}
+		.label {
+			margin-left: var(--spacing-4);
+			font-size: 1rem;
+		}
+	}
+	.copyright {
+		padding-top: var(--spacing-2);
+		margin-bottom: 0;
+		text-align: center;
+	}
+}

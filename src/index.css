@@ -1,0 +1,45 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'bootstrap-icons/font/bootstrap-icons.min.css';
+@import url('https://cdn.jsdelivr.net/npm/segoe-fonts@1.0.1/segoe-fonts.min.css');
+body {
+  margin: 0;
+  /* font-size: 10px; */
+  font-family: 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+
+  --primary-bg: rgb(0, 45, 66);
+  --primary-bg-lg: rgba(0, 45, 66, 0.9);
+  --secondary-bg: #EFF1F3;
+
+  --bg-1: #EB9DA6;
+  --bg-2: #FF414D;
+  
+  --neutral: rgba(255, 255, 255, 1);
+  --neutral-lg: rgba(255, 255, 255, 0.7);
+  
+  --gradient-bg: linear-gradient(to bottom right, var(--bg-1), var(--bg-2));
+  --gradient-bg-2: linear-gradient(to bottom right, #0E6072, var(--primary-bg));
+
+  --fs: 1rem;
+  --fs-nm: 1.2rem;
+  --fs-l: 1.4rem;
+  --fs-xl: 2rem;
+  --fs-2xl: 3rem;
+  --fs-3xl: 4rem;
+
+  --spacing-1: 8px;
+  --spacing-2: 12px;
+  --spacing-3: 16px;
+  --spacing-4: 24px;
+  --spacing-5: 32px;
+  --spacing-6: 40px;
+
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
