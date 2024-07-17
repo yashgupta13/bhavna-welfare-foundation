@@ -23,7 +23,7 @@ function Mission() {
             quaerat vel minus.
           </p>
           <div className="mission-container">
-            <h3>Our Mission</h3>
+            <h2>Our Mission</h2>
             <p>
               To work for the under priviledged creating a society which
               recognized the right of all to live with honour and dignity.
@@ -32,14 +32,14 @@ function Mission() {
             </p>
           </div>
           <div className="mission-container">
-            <h3>Our Vision</h3>
+            <h2>Our Vision</h2>
             <p>
               Providing a better tomorrow, a promising future and building a
               society with heart full of love and hands ready to help.
             </p>
           </div>
           <div className="mission-container">
-            <h3>Our Values</h3>
+            <h2>Our Values</h2>
             <div className="value-container">
               <span className="values">Dedication</span>
               <span className="values">Transparency</span>
