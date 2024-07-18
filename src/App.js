@@ -1,5 +1,5 @@
-import Navbar from "./components/Navbar/Navbar"
 import './App.css';
+import Navbar from "./components/Navbar/Navbar"
 import Mission from "./components/Mission/Mission"
 import Footer from "./components/Footer/Footer"
 import Carousel from "./components/carousel/carousel"
