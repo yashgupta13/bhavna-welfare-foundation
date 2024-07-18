@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bhavna-welfare-foundation/static/css/main.dbc0cc2e.css",
-    "main.js": "/bhavna-welfare-foundation/static/js/main.3d839a59.js",
+    "main.css": "/bhavna-welfare-foundation/static/css/main.9d07f589.css",
+    "main.js": "/bhavna-welfare-foundation/static/js/main.7e6eff7a.js",
     "static/js/453.820d9aa2.chunk.js": "/bhavna-welfare-foundation/static/js/453.820d9aa2.chunk.js",
     "static/media/img-2.jpg": "/bhavna-welfare-foundation/static/media/img-2.2dcbb29ffcce960bc8ba.jpg",
     "static/media/Gagalin-Regular.otf": "/bhavna-welfare-foundation/static/media/Gagalin-Regular.6bc229310548650a1f24.otf",
@@ -9,12 +9,12 @@
     "static/media/bootstrap-icons.woff2?": "/bhavna-welfare-foundation/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/Logo.png": "/bhavna-welfare-foundation/static/media/Logo.5f01e818d2083157d08a.png",
     "index.html": "/bhavna-welfare-foundation/index.html",
-    "main.dbc0cc2e.css.map": "/bhavna-welfare-foundation/static/css/main.dbc0cc2e.css.map",
-    "main.3d839a59.js.map": "/bhavna-welfare-foundation/static/js/main.3d839a59.js.map",
+    "main.9d07f589.css.map": "/bhavna-welfare-foundation/static/css/main.9d07f589.css.map",
+    "main.7e6eff7a.js.map": "/bhavna-welfare-foundation/static/js/main.7e6eff7a.js.map",
     "453.820d9aa2.chunk.js.map": "/bhavna-welfare-foundation/static/js/453.820d9aa2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc0cc2e.css",
-    "static/js/main.3d839a59.js"
+    "static/css/main.9d07f589.css",
+    "static/js/main.7e6eff7a.js"
   ]
 }
